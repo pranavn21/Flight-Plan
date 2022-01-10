@@ -1,0 +1,11 @@
+4
+Dallas|Austin|98|47
+Austin|Houston|95|39
+Dallas|Houston|101|51
+Austin|Chicago|144|192
+Paris|Berlin|143|321
+Dubai|Moscow|291|322
+Vienna|Berlin|123|312
+London|Paris|131|312
+London|Dubai|500|812
+Moscow|Vienna|192|382
